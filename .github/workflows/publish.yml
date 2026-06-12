@@ -1,0 +1,36 @@
+name: Aggiorna dati dashboard
+
+# Scarica dashboard_data.json dal VPS (dove il bot lo rigenera ogni ~5 min)
+# e lo committa qui. La dashboard legge questo file via raw.githubusercontent.
+# Unico segreto richiesto: VPS_SSH_KEY (la stessa chiave usata per il deploy del bot).
+
+on:
+  schedule:
+    - cron: '13,43 * * * *'   # ogni 30 min
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup chiave SSH
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.VPS_SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+
+      - name: Scarica dal VPS e committa
+        run: |
+          scp -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no \
+            root@217.160.9.142:/opt/trading-2h/dashboard_data.json ./dashboard_data.json
+          test -s dashboard_data.json
+          git config user.name "dashboard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add dashboard_data.json
+          git commit -m "dati $(date -u +%FT%TZ)" || { echo "nessuna modifica"; exit 0; }
+          git push

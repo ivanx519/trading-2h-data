@@ -2,7 +2,7 @@ name: Aggiorna dati dashboard
 
 # Scarica dashboard_data.json dal VPS (dove il bot lo rigenera ogni ~5 min)
 # e lo committa qui. La dashboard legge questo file via raw.githubusercontent.
-# Unico segreto richiesto: VPS_SSH_KEY (la stessa chiave usata per il deploy del bot).
+# Autenticazione al VPS via password (secret VPS_PASSWORD). Solo scp in lettura.
 
 on:
   schedule:
@@ -18,15 +18,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup chiave SSH
-        run: |
-          mkdir -p ~/.ssh
-          printf '%s\n' "${{ secrets.VPS_SSH_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
+      - name: Installa sshpass
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq sshpass
 
       - name: Scarica dal VPS e committa
+        env:
+          VPS_PASSWORD: ${{ secrets.VPS_PASSWORD }}
         run: |
-          scp -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no \
+          sshpass -p "$VPS_PASSWORD" scp -o StrictHostKeyChecking=no \
             root@217.160.9.142:/opt/trading-2h/dashboard_data.json ./dashboard_data.json
           test -s dashboard_data.json
           git config user.name "dashboard-bot"

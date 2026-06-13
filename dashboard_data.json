@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.6",
-  "generato": "13/06/2026 22:06",
-  "generato_iso": "2026-06-13T22:06:17.004779+02:00",
+  "generato": "13/06/2026 23:37",
+  "generato_iso": "2026-06-13T23:37:34.651985+02:00",
   "saldo": 97.58,
   "budget": 100.0,
   "bot_attivo": true,
@@ -113,7 +113,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "BNB",
    "side": "short",
    "pnl_perc": 1.1,
@@ -121,7 +121,7 @@
    "motivo": "trailing_f3"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "AVAX",
    "side": "short",
    "pnl_perc": 0.324,
@@ -129,7 +129,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "SOL",
    "side": "short",
    "pnl_perc": 0.024,
@@ -137,7 +137,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": -1.694,
@@ -145,7 +145,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "LINK",
    "side": "short",
    "pnl_perc": -1.335,
@@ -153,7 +153,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "XRP",
    "side": "short",
    "pnl_perc": -1.341,
@@ -161,7 +161,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "NEAR",
    "side": "short",
    "pnl_perc": -3.172,
@@ -169,7 +169,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": -1.216,
@@ -177,7 +177,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "BNB",
    "side": "short",
    "pnl_perc": -1.236,
@@ -185,7 +185,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "XRP",
    "side": "short",
    "pnl_perc": -0.162,
@@ -193,7 +193,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "SOL",
    "side": "long",
    "pnl_perc": 0.339,
@@ -201,7 +201,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "13/06 22:06",
+   "data": "13/06 23:37",
    "moneta": "LINK",
    "side": "long",
    "pnl_perc": 0.338,

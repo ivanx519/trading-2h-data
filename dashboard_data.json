@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.6",
-  "generato": "15/06/2026 23:35",
-  "generato_iso": "2026-06-15T23:35:52.346422+02:00",
+  "generato": "16/06/2026 01:21",
+  "generato_iso": "2026-06-16T01:21:48.298679+02:00",
   "saldo": 97.54,
   "budget": 100.0,
   "bot_attivo": true,
@@ -100,7 +100,7 @@
    "note": ""
   },
   {
-   "w": "15/06",
+   "w": "16/06",
    "saldo": 97.54,
    "pnl": -0.04,
    "r": 0.01,
@@ -122,7 +122,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "15/06 23:35",
+   "data": "16/06 01:21",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.011,

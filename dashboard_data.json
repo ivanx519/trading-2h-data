@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.6",
-  "generato": "17/06/2026 08:48",
-  "generato_iso": "2026-06-17T08:48:26.882675+02:00",
+  "generato": "17/06/2026 13:54",
+  "generato_iso": "2026-06-17T13:54:36.138729+02:00",
   "saldo": 97.05,
   "budget": 100.0,
   "bot_attivo": true,
@@ -111,9 +111,9 @@
   }
  ],
  "funnel": {
-  "grezzi": 308,
-  "qualificati": 7,
-  "pendenti": 7,
+  "grezzi": 354,
+  "qualificati": 9,
+  "pendenti": 9,
   "entrati": 2,
   "win": 0,
   "loss": 1,
@@ -122,7 +122,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "17/06 08:48",
+   "data": "17/06 13:54",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.011,
@@ -130,7 +130,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "17/06 08:48",
+   "data": "17/06 13:54",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": -1.329,

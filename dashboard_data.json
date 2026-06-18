@@ -1,12 +1,12 @@
 {
  "meta": {
   "version": "2.6",
-  "generato": "18/06/2026 13:00",
-  "generato_iso": "2026-06-18T13:00:48.332599+02:00",
+  "generato": "18/06/2026 16:20",
+  "generato_iso": "2026-06-18T16:20:18.837832+02:00",
   "saldo": 96.56,
   "budget": 100.0,
   "bot_attivo": true,
-  "btc": "SHORT"
+  "btc": "STABILE"
  },
  "settimane": [
   {
@@ -111,7 +111,7 @@
   }
  ],
  "funnel": {
-  "grezzi": 483,
+  "grezzi": 512,
   "qualificati": 12,
   "pendenti": 12,
   "entrati": 4,
@@ -122,7 +122,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "18/06 13:00",
+   "data": "18/06 16:20",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.011,
@@ -130,7 +130,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "18/06 13:00",
+   "data": "18/06 16:20",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": -1.329,
@@ -138,7 +138,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "18/06 13:00",
+   "data": "18/06 16:20",
    "moneta": "XRP",
    "side": "short",
    "pnl_perc": -1.216,
@@ -146,7 +146,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "18/06 13:00",
+   "data": "18/06 16:20",
    "moneta": "BNB",
    "side": "short",
    "pnl_perc": 0.023,

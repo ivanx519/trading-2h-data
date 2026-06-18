@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.6",
-  "generato": "18/06/2026 00:49",
-  "generato_iso": "2026-06-18T00:49:30.196494+02:00",
+  "generato": "18/06/2026 03:35",
+  "generato_iso": "2026-06-18T03:35:56.585396+02:00",
   "saldo": 96.56,
   "budget": 100.0,
   "bot_attivo": true,
@@ -122,7 +122,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "18/06 00:49",
+   "data": "18/06 03:35",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.011,
@@ -130,7 +130,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "18/06 00:49",
+   "data": "18/06 03:35",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": -1.329,
@@ -138,7 +138,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "18/06 00:49",
+   "data": "18/06 03:35",
    "moneta": "XRP",
    "side": "short",
    "pnl_perc": -1.216,
@@ -146,7 +146,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "18/06 00:49",
+   "data": "18/06 03:35",
    "moneta": "BNB",
    "side": "short",
    "pnl_perc": 0.023,

@@ -1,9 +1,9 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "22/06/2026 14:24",
-  "generato_iso": "2026-06-22T14:24:53.098508+02:00",
-  "saldo": 96.56,
+  "generato": "22/06/2026 19:14",
+  "generato_iso": "2026-06-22T19:14:48.637782+02:00",
+  "saldo": 96.11,
   "budget": 100.0,
   "bot_attivo": true,
   "btc": "STABILE"
@@ -110,24 +110,33 @@
   },
   {
    "w": "22/06",
-   "saldo": 96.56,
-   "pnl": 0,
-   "r": 0.0,
+   "saldo": 96.11,
+   "pnl": -0.45,
+   "r": -1.0,
    "win": 0,
-   "tot": 0,
+   "tot": 1,
    "note": "in corso",
    "live": true
   }
  ],
  "funnel": {
-  "grezzi": 80,
-  "qualificati": 2,
-  "pendenti": 2,
-  "entrati": 0,
+  "grezzi": 112,
+  "qualificati": 6,
+  "pendenti": 6,
+  "entrati": 1,
   "win": 0,
-  "loss": 0,
+  "loss": 1,
   "be": 0
  },
  "posizioni_aperte": [],
- "trade_recenti": []
+ "trade_recenti": [
+  {
+   "data": "22/06 19:14",
+   "moneta": "ETH",
+   "side": "long",
+   "pnl_perc": -1.202,
+   "pnl_euro": -0.447,
+   "motivo": "stop_loss"
+  }
+ ]
 }

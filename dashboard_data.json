@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "22/06/2026 00:47",
-  "generato_iso": "2026-06-22T00:47:08.212166+02:00",
+  "generato": "22/06/2026 02:17",
+  "generato_iso": "2026-06-22T02:17:57.986413+02:00",
   "saldo": 96.56,
   "budget": 100.0,
   "bot_attivo": true,
@@ -106,52 +106,28 @@
    "r": -0.52,
    "win": 0,
    "tot": 4,
+   "note": ""
+  },
+  {
+   "w": "22/06",
+   "saldo": 96.56,
+   "pnl": 0,
+   "r": 0.0,
+   "win": 0,
+   "tot": 0,
    "note": "in corso",
    "live": true
   }
  ],
  "funnel": {
-  "grezzi": 724,
-  "qualificati": 14,
-  "pendenti": 14,
-  "entrati": 4,
+  "grezzi": 0,
+  "qualificati": 0,
+  "pendenti": 0,
+  "entrati": 0,
   "win": 0,
-  "loss": 2,
-  "be": 2
+  "loss": 0,
+  "be": 0
  },
  "posizioni_aperte": [],
- "trade_recenti": [
-  {
-   "data": "22/06 00:47",
-   "moneta": "BNB",
-   "side": "long",
-   "pnl_perc": 0.011,
-   "pnl_euro": -0.037,
-   "motivo": "break_even"
-  },
-  {
-   "data": "22/06 00:47",
-   "moneta": "ADA",
-   "side": "short",
-   "pnl_perc": -1.329,
-   "pnl_euro": -0.495,
-   "motivo": "stop_loss"
-  },
-  {
-   "data": "22/06 00:47",
-   "moneta": "XRP",
-   "side": "short",
-   "pnl_perc": -1.216,
-   "pnl_euro": -0.454,
-   "motivo": "stop_loss"
-  },
-  {
-   "data": "22/06 00:47",
-   "moneta": "BNB",
-   "side": "short",
-   "pnl_perc": 0.023,
-   "pnl_euro": -0.033,
-   "motivo": "break_even"
-  }
- ]
+ "trade_recenti": []
 }

@@ -1,9 +1,9 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "23/06/2026 13:39",
-  "generato_iso": "2026-06-23T13:39:37.111795+02:00",
-  "saldo": 96.44,
+  "generato": "23/06/2026 17:19",
+  "generato_iso": "2026-06-23T17:19:06.242778+02:00",
+  "saldo": 96.36,
   "budget": 100.0,
   "bot_attivo": true,
   "btc": "STABILE"
@@ -110,38 +110,28 @@
   },
   {
    "w": "23/06",
-   "saldo": 96.44,
-   "pnl": -0.12,
-   "r": 0.0,
+   "saldo": 96.36,
+   "pnl": -0.2,
+   "r": -0.02,
    "win": 2,
-   "tot": 3,
+   "tot": 4,
    "note": "in corso",
    "live": true
   }
  ],
  "funnel": {
-  "grezzi": 194,
+  "grezzi": 221,
   "qualificati": 10,
   "pendenti": 10,
   "entrati": 4,
   "win": 2,
   "loss": 1,
-  "be": 0
+  "be": 1
  },
- "posizioni_aperte": [
-  {
-   "moneta": "BTC",
-   "side": "short",
-   "entry": 62350.8,
-   "prezzo": 62595.1,
-   "pnl_perc": -0.39,
-   "fase": 0,
-   "ore": 0.1
-  }
- ],
+ "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "23/06 13:39",
+   "data": "23/06 17:19",
    "moneta": "ETH",
    "side": "long",
    "pnl_perc": -1.202,
@@ -149,7 +139,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "23/06 13:39",
+   "data": "23/06 17:19",
    "moneta": "DOGE",
    "side": "short",
    "pnl_perc": 0.556,
@@ -157,12 +147,20 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "23/06 13:39",
+   "data": "23/06 17:19",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.646,
    "pnl_euro": 0.177,
    "motivo": "trailing_f2"
+  },
+  {
+   "data": "23/06 17:19",
+   "moneta": "BTC",
+   "side": "short",
+   "pnl_perc": -0.104,
+   "pnl_euro": -0.076,
+   "motivo": "break_even"
   }
  ]
 }

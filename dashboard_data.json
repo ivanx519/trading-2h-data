@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "24/06/2026 20:17",
-  "generato_iso": "2026-06-24T20:17:43.178905+02:00",
+  "generato": "24/06/2026 22:20",
+  "generato_iso": "2026-06-24T22:20:03.165719+02:00",
   "saldo": 96.36,
   "budget": 100.0,
   "bot_attivo": true,
@@ -120,7 +120,7 @@
   }
  ],
  "funnel": {
-  "grezzi": 401,
+  "grezzi": 417,
   "qualificati": 15,
   "pendenti": 15,
   "entrati": 4,
@@ -131,7 +131,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "24/06 20:17",
+   "data": "24/06 22:20",
    "moneta": "ETH",
    "side": "long",
    "pnl_perc": -1.202,
@@ -139,7 +139,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "24/06 20:17",
+   "data": "24/06 22:20",
    "moneta": "DOGE",
    "side": "short",
    "pnl_perc": 0.556,
@@ -147,7 +147,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "24/06 20:17",
+   "data": "24/06 22:20",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.646,
@@ -155,7 +155,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "24/06 20:17",
+   "data": "24/06 22:20",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": -0.104,

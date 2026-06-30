@@ -1,9 +1,9 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "30/06/2026 14:19",
-  "generato_iso": "2026-06-30T14:19:53.815657+02:00",
-  "saldo": 96.36,
+  "generato": "30/06/2026 17:13",
+  "generato_iso": "2026-06-30T17:13:49.944449+02:00",
+  "saldo": 96.48,
   "budget": 100.0,
   "bot_attivo": true,
   "btc": "SHORT"
@@ -119,24 +119,33 @@
   },
   {
    "w": "30/06",
-   "saldo": 96.36,
-   "pnl": 0,
-   "r": 0.0,
-   "win": 0,
-   "tot": 0,
+   "saldo": 96.48,
+   "pnl": 0.12,
+   "r": 0.4,
+   "win": 1,
+   "tot": 1,
    "note": "in corso",
    "live": true
   }
  ],
  "funnel": {
-  "grezzi": 225,
-  "qualificati": 1,
-  "pendenti": 1,
-  "entrati": 0,
-  "win": 0,
+  "grezzi": 253,
+  "qualificati": 3,
+  "pendenti": 3,
+  "entrati": 1,
+  "win": 1,
   "loss": 0,
   "be": 0
  },
  "posizioni_aperte": [],
- "trade_recenti": []
+ "trade_recenti": [
+  {
+   "data": "30/06 17:13",
+   "moneta": "DOGE",
+   "side": "short",
+   "pnl_perc": 0.481,
+   "pnl_euro": 0.122,
+   "motivo": "ratchet_profit"
+  }
+ ]
 }

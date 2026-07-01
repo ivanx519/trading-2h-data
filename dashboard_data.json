@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "02/07/2026 00:37",
-  "generato_iso": "2026-07-02T00:37:02.443623+02:00",
+  "generato": "02/07/2026 01:52",
+  "generato_iso": "2026-07-02T01:52:41.023838+02:00",
   "saldo": 96.48,
   "budget": 100.0,
   "bot_attivo": true,
@@ -140,7 +140,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "02/07 00:37",
+   "data": "02/07 01:52",
    "moneta": "DOGE",
    "side": "short",
    "pnl_perc": 0.481,

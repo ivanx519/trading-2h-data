@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "03/07/2026 07:31",
-  "generato_iso": "2026-07-03T07:31:06.025207+02:00",
+  "generato": "03/07/2026 10:34",
+  "generato_iso": "2026-07-03T10:34:53.029070+02:00",
   "saldo": 96.44,
   "budget": 100.0,
   "bot_attivo": true,
@@ -129,7 +129,7 @@
   }
  ],
  "funnel": {
-  "grezzi": 608,
+  "grezzi": 638,
   "qualificati": 6,
   "pendenti": 6,
   "entrati": 2,
@@ -140,7 +140,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "03/07 07:31",
+   "data": "03/07 10:34",
    "moneta": "DOGE",
    "side": "short",
    "pnl_perc": 0.481,
@@ -148,7 +148,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "03/07 07:31",
+   "data": "03/07 10:34",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": -0.013,

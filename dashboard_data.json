@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "03/07/2026 22:00",
-  "generato_iso": "2026-07-03T22:00:23.238392+02:00",
+  "generato": "03/07/2026 23:26",
+  "generato_iso": "2026-07-03T23:26:54.097961+02:00",
   "saldo": 96.95,
   "budget": 100.0,
   "bot_attivo": true,
@@ -129,7 +129,7 @@
   }
  ],
  "funnel": {
-  "grezzi": 735,
+  "grezzi": 745,
   "qualificati": 8,
   "pendenti": 8,
   "entrati": 4,
@@ -140,7 +140,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "03/07 22:00",
+   "data": "03/07 23:26",
    "moneta": "DOGE",
    "side": "short",
    "pnl_perc": 0.481,
@@ -148,7 +148,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "03/07 22:00",
+   "data": "03/07 23:26",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": -0.013,
@@ -156,7 +156,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "03/07 22:00",
+   "data": "03/07 23:26",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": 0.483,
@@ -164,7 +164,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "03/07 22:00",
+   "data": "03/07 23:26",
    "moneta": "XRP",
    "side": "long",
    "pnl_perc": 1.268,

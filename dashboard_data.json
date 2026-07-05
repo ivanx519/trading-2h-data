@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "05/07/2026 23:37",
-  "generato_iso": "2026-07-05T23:37:35.715374+02:00",
+  "generato": "06/07/2026 00:38",
+  "generato_iso": "2026-07-06T00:38:07.254051+02:00",
   "saldo": 96.95,
   "budget": 100.0,
   "bot_attivo": true,
@@ -118,7 +118,7 @@
    "note": ""
   },
   {
-   "w": "05/07",
+   "w": "06/07",
    "saldo": 96.95,
    "pnl": 0.59,
    "r": 0.46,
@@ -140,7 +140,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "05/07 23:37",
+   "data": "06/07 00:38",
    "moneta": "DOGE",
    "side": "short",
    "pnl_perc": 0.481,
@@ -148,7 +148,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "05/07 23:37",
+   "data": "06/07 00:38",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": -0.013,
@@ -156,7 +156,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "05/07 23:37",
+   "data": "06/07 00:38",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": 0.483,
@@ -164,7 +164,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "05/07 23:37",
+   "data": "06/07 00:38",
    "moneta": "XRP",
    "side": "long",
    "pnl_perc": 1.268,

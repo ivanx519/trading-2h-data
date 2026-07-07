@@ -1,9 +1,9 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "07/07/2026 11:58",
-  "generato_iso": "2026-07-07T11:58:52.415071+02:00",
-  "saldo": 96.95,
+  "generato": "07/07/2026 14:37",
+  "generato_iso": "2026-07-07T14:37:03.139992+02:00",
+  "saldo": 96.89,
   "budget": 100.0,
   "bot_attivo": true,
   "btc": "STABILE"
@@ -128,34 +128,33 @@
   },
   {
    "w": "07/07",
-   "saldo": 96.95,
-   "pnl": 0,
-   "r": 0.0,
+   "saldo": 96.89,
+   "pnl": -0.05,
+   "r": -0.03,
    "win": 0,
-   "tot": 0,
+   "tot": 1,
    "note": "in corso",
    "live": true
   }
  ],
  "funnel": {
-  "grezzi": 118,
+  "grezzi": 142,
   "qualificati": 4,
   "pendenti": 4,
   "entrati": 1,
   "win": 0,
   "loss": 0,
-  "be": 0
+  "be": 1
  },
- "posizioni_aperte": [
+ "posizioni_aperte": [],
+ "trade_recenti": [
   {
+   "data": "07/07 14:37",
    "moneta": "DOGE",
    "side": "short",
-   "entry": 0.07481,
-   "prezzo": 0.07495,
-   "pnl_perc": -0.19,
-   "fase": 0,
-   "ore": 2.0
+   "pnl_perc": -0.04,
+   "pnl_euro": -0.054,
+   "motivo": "break_even"
   }
- ],
- "trade_recenti": []
+ ]
 }

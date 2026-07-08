@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "08/07/2026 23:25",
-  "generato_iso": "2026-07-08T23:25:01.338884+02:00",
+  "generato": "09/07/2026 00:41",
+  "generato_iso": "2026-07-09T00:41:10.441647+02:00",
   "saldo": 95.77,
   "budget": 100.0,
   "bot_attivo": true,
@@ -127,7 +127,7 @@
    "note": ""
   },
   {
-   "w": "08/07",
+   "w": "09/07",
    "saldo": 95.77,
    "pnl": -1.18,
    "r": -0.87,
@@ -151,15 +151,15 @@
    "moneta": "SOL",
    "side": "short",
    "entry": 76.715,
-   "prezzo": 77.01,
-   "pnl_perc": -0.38,
+   "prezzo": 77.349,
+   "pnl_perc": -0.83,
    "fase": 0,
-   "ore": 5.4
+   "ore": 6.7
   }
  ],
  "trade_recenti": [
   {
-   "data": "08/07 23:25",
+   "data": "09/07 00:41",
    "moneta": "DOGE",
    "side": "short",
    "pnl_perc": -0.04,
@@ -167,7 +167,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "08/07 23:25",
+   "data": "09/07 00:41",
    "moneta": "NEAR",
    "side": "long",
    "pnl_perc": -1.82,
@@ -175,7 +175,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "08/07 23:25",
+   "data": "09/07 00:41",
    "moneta": "ETH",
    "side": "short",
    "pnl_perc": -1.265,

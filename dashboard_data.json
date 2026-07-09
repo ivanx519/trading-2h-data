@@ -1,9 +1,9 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "09/07/2026 01:47",
-  "generato_iso": "2026-07-09T01:47:08.303099+02:00",
-  "saldo": 95.77,
+  "generato": "09/07/2026 06:10",
+  "generato_iso": "2026-07-09T06:10:32.900184+02:00",
+  "saldo": 95.26,
   "budget": 100.0,
   "bot_attivo": true,
   "btc": "SHORT"
@@ -128,11 +128,11 @@
   },
   {
    "w": "09/07",
-   "saldo": 95.77,
-   "pnl": -1.18,
-   "r": -0.87,
+   "saldo": 95.26,
+   "pnl": -1.69,
+   "r": -0.94,
    "win": 0,
-   "tot": 3,
+   "tot": 4,
    "note": "in corso",
    "live": true
   }
@@ -143,23 +143,13 @@
   "pendenti": 10,
   "entrati": 4,
   "win": 0,
-  "loss": 2,
+  "loss": 3,
   "be": 1
  },
- "posizioni_aperte": [
-  {
-   "moneta": "SOL",
-   "side": "short",
-   "entry": 76.715,
-   "prezzo": 77.542,
-   "pnl_perc": -1.08,
-   "fase": 0,
-   "ore": 7.8
-  }
- ],
+ "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "09/07 01:47",
+   "data": "09/07 06:10",
    "moneta": "DOGE",
    "side": "short",
    "pnl_perc": -0.04,
@@ -167,7 +157,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "09/07 01:47",
+   "data": "09/07 06:10",
    "moneta": "NEAR",
    "side": "long",
    "pnl_perc": -1.82,
@@ -175,11 +165,19 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "09/07 01:47",
+   "data": "09/07 06:10",
    "moneta": "ETH",
    "side": "short",
    "pnl_perc": -1.265,
    "pnl_euro": -0.466,
+   "motivo": "stop_loss"
+  },
+  {
+   "data": "09/07 06:10",
+   "moneta": "SOL",
+   "side": "short",
+   "pnl_perc": -1.399,
+   "pnl_euro": -0.512,
    "motivo": "stop_loss"
   }
  ]

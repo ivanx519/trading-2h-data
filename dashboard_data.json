@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "09/07/2026 22:54",
-  "generato_iso": "2026-07-09T22:54:25.671278+02:00",
+  "generato": "10/07/2026 00:41",
+  "generato_iso": "2026-07-10T00:41:25.557898+02:00",
   "saldo": 94.8,
   "budget": 100.0,
   "bot_attivo": true,
@@ -127,7 +127,7 @@
    "note": ""
   },
   {
-   "w": "09/07",
+   "w": "10/07",
    "saldo": 94.8,
    "pnl": -2.14,
    "r": -0.96,
@@ -138,7 +138,7 @@
   }
  ],
  "funnel": {
-  "grezzi": 456,
+  "grezzi": 464,
   "qualificati": 14,
   "pendenti": 14,
   "entrati": 5,
@@ -149,7 +149,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "09/07 22:54",
+   "data": "10/07 00:41",
    "moneta": "DOGE",
    "side": "short",
    "pnl_perc": -0.04,
@@ -157,7 +157,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "09/07 22:54",
+   "data": "10/07 00:41",
    "moneta": "NEAR",
    "side": "long",
    "pnl_perc": -1.82,
@@ -165,7 +165,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "09/07 22:54",
+   "data": "10/07 00:41",
    "moneta": "ETH",
    "side": "short",
    "pnl_perc": -1.265,
@@ -173,7 +173,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "09/07 22:54",
+   "data": "10/07 00:41",
    "moneta": "SOL",
    "side": "short",
    "pnl_perc": -1.399,
@@ -181,7 +181,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "09/07 22:54",
+   "data": "10/07 00:41",
    "moneta": "AVAX",
    "side": "long",
    "pnl_perc": -1.241,

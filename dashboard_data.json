@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "12/07/2026 19:39",
-  "generato_iso": "2026-07-12T19:39:45.855215+02:00",
+  "generato": "12/07/2026 20:35",
+  "generato_iso": "2026-07-12T20:35:15.503626+02:00",
   "saldo": 94.58,
   "budget": 100.0,
   "bot_attivo": true,
@@ -149,7 +149,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "12/07 19:39",
+   "data": "12/07 20:35",
    "moneta": "DOGE",
    "side": "short",
    "pnl_perc": -0.04,
@@ -157,7 +157,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "12/07 19:39",
+   "data": "12/07 20:35",
    "moneta": "NEAR",
    "side": "long",
    "pnl_perc": -1.82,
@@ -165,7 +165,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "12/07 19:39",
+   "data": "12/07 20:35",
    "moneta": "ETH",
    "side": "short",
    "pnl_perc": -1.265,
@@ -173,7 +173,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "12/07 19:39",
+   "data": "12/07 20:35",
    "moneta": "SOL",
    "side": "short",
    "pnl_perc": -1.399,
@@ -181,7 +181,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "12/07 19:39",
+   "data": "12/07 20:35",
    "moneta": "AVAX",
    "side": "long",
    "pnl_perc": -1.241,
@@ -189,7 +189,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "12/07 19:39",
+   "data": "12/07 20:35",
    "moneta": "BTC",
    "side": "long",
    "pnl_perc": -0.33563304120827897,

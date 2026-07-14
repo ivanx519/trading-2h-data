@@ -1,9 +1,9 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "14/07/2026 13:11",
-  "generato_iso": "2026-07-14T13:11:31.430296+02:00",
-  "saldo": 94.58,
+  "generato": "14/07/2026 14:38",
+  "generato_iso": "2026-07-14T14:38:24.493286+02:00",
+  "saldo": 94.1,
   "budget": 100.0,
   "bot_attivo": true,
   "btc": "STABILE"
@@ -137,24 +137,33 @@
   },
   {
    "w": "14/07",
-   "saldo": 94.58,
-   "pnl": 0,
-   "r": 0.0,
+   "saldo": 94.1,
+   "pnl": -0.48,
+   "r": -1.1,
    "win": 0,
-   "tot": 0,
+   "tot": 1,
    "note": "in corso",
    "live": true
   }
  ],
  "funnel": {
-  "grezzi": 137,
+  "grezzi": 146,
   "qualificati": 5,
   "pendenti": 5,
-  "entrati": 0,
+  "entrati": 1,
   "win": 0,
-  "loss": 0,
+  "loss": 1,
   "be": 0
  },
  "posizioni_aperte": [],
- "trade_recenti": []
+ "trade_recenti": [
+  {
+   "data": "14/07 14:38",
+   "moneta": "AVAX",
+   "side": "short",
+   "pnl_perc": -1.321,
+   "pnl_euro": -0.477,
+   "motivo": "stop_loss"
+  }
+ ]
 }

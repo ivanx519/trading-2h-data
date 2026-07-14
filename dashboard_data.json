@@ -1,12 +1,12 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "14/07/2026 17:58",
-  "generato_iso": "2026-07-14T17:58:43.412463+02:00",
+  "generato": "14/07/2026 19:30",
+  "generato_iso": "2026-07-14T19:30:33.320373+02:00",
   "saldo": 94.1,
   "budget": 100.0,
   "bot_attivo": true,
-  "btc": "STABILE"
+  "btc": "LONG"
  },
  "settimane": [
   {
@@ -147,18 +147,28 @@
   }
  ],
  "funnel": {
-  "grezzi": 181,
+  "grezzi": 189,
   "qualificati": 6,
   "pendenti": 6,
-  "entrati": 1,
+  "entrati": 2,
   "win": 0,
   "loss": 1,
   "be": 0
  },
- "posizioni_aperte": [],
+ "posizioni_aperte": [
+  {
+   "moneta": "NEAR",
+   "side": "long",
+   "entry": 2.0435,
+   "prezzo": 2.0365,
+   "pnl_perc": -0.34,
+   "fase": 0,
+   "ore": 0.6
+  }
+ ],
  "trade_recenti": [
   {
-   "data": "14/07 17:58",
+   "data": "14/07 19:30",
    "moneta": "AVAX",
    "side": "short",
    "pnl_perc": -1.321,

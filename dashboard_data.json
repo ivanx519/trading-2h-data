@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "17/07/2026 23:04",
-  "generato_iso": "2026-07-17T23:04:14.341352+02:00",
+  "generato": "18/07/2026 00:04",
+  "generato_iso": "2026-07-18T00:04:45.738235+02:00",
   "saldo": 93.62,
   "budget": 100.0,
   "bot_attivo": true,
@@ -136,7 +136,7 @@
    "note": ""
   },
   {
-   "w": "17/07",
+   "w": "18/07",
    "saldo": 93.62,
    "pnl": -0.95,
    "r": -1.1,
@@ -158,7 +158,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "17/07 23:04",
+   "data": "18/07 00:04",
    "moneta": "AVAX",
    "side": "short",
    "pnl_perc": -1.321,
@@ -166,7 +166,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "17/07 23:04",
+   "data": "18/07 00:04",
    "moneta": "NEAR",
    "side": "long",
    "pnl_perc": -1.331,

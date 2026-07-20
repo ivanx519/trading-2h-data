@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "20/07/2026 21:02",
-  "generato_iso": "2026-07-20T21:02:09.863737+02:00",
+  "generato": "20/07/2026 22:34",
+  "generato_iso": "2026-07-20T22:34:24.916956+02:00",
   "saldo": 93.62,
   "budget": 100.0,
   "bot_attivo": true,
@@ -156,7 +156,7 @@
   }
  ],
  "funnel": {
-  "grezzi": 127,
+  "grezzi": 135,
   "qualificati": 3,
   "pendenti": 3,
   "entrati": 1,
@@ -169,10 +169,10 @@
    "moneta": "NEAR",
    "side": "long",
    "entry": 1.9799,
-   "prezzo": 1.9696,
-   "pnl_perc": -0.52,
+   "prezzo": 1.9797,
+   "pnl_perc": -0.01,
    "fase": 0,
-   "ore": 3.0
+   "ore": 4.6
   }
  ],
  "trade_recenti": []

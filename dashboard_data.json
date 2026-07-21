@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "21/07/2026 03:03",
-  "generato_iso": "2026-07-21T03:03:10.395164+02:00",
+  "generato": "21/07/2026 06:25",
+  "generato_iso": "2026-07-21T06:25:40.410441+02:00",
   "saldo": 93.76,
   "budget": 100.0,
   "bot_attivo": true,
@@ -167,7 +167,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "21/07 03:03",
+   "data": "21/07 06:25",
    "moneta": "NEAR",
    "side": "long",
    "pnl_perc": 0.545,

@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "21/07/2026 23:28",
-  "generato_iso": "2026-07-21T23:28:01.520086+02:00",
+  "generato": "22/07/2026 00:34",
+  "generato_iso": "2026-07-22T00:34:13.735164+02:00",
   "saldo": 93.3,
   "budget": 100.0,
   "bot_attivo": true,
@@ -145,7 +145,7 @@
    "note": ""
   },
   {
-   "w": "21/07",
+   "w": "22/07",
    "saldo": 93.3,
    "pnl": -0.32,
    "r": -0.17,
@@ -169,15 +169,15 @@
    "moneta": "BTC",
    "side": "long",
    "entry": 66739.1,
-   "prezzo": 66300.6,
+   "prezzo": 66301.5,
    "pnl_perc": -0.66,
    "fase": 0,
-   "ore": 7.5
+   "ore": 8.6
   }
  ],
  "trade_recenti": [
   {
-   "data": "21/07 23:28",
+   "data": "22/07 00:34",
    "moneta": "NEAR",
    "side": "long",
    "pnl_perc": 0.545,
@@ -185,7 +185,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "21/07 23:28",
+   "data": "22/07 00:34",
    "moneta": "XRP",
    "side": "long",
    "pnl_perc": 0.044,
@@ -193,7 +193,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "21/07 23:28",
+   "data": "22/07 00:34",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": -1.205,

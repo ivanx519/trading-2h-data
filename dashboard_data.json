@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "23/07/2026 11:09",
-  "generato_iso": "2026-07-23T11:09:01.046879+02:00",
+  "generato": "23/07/2026 13:26",
+  "generato_iso": "2026-07-23T13:26:40.923870+02:00",
   "saldo": 92.86,
   "budget": 100.0,
   "bot_attivo": true,
@@ -156,9 +156,9 @@
   }
  ],
  "funnel": {
-  "grezzi": 447,
-  "qualificati": 6,
-  "pendenti": 6,
+  "grezzi": 467,
+  "qualificati": 7,
+  "pendenti": 7,
   "entrati": 4,
   "win": 1,
   "loss": 2,
@@ -167,7 +167,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "23/07 11:09",
+   "data": "23/07 13:26",
    "moneta": "NEAR",
    "side": "long",
    "pnl_perc": 0.545,
@@ -175,7 +175,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "23/07 11:09",
+   "data": "23/07 13:26",
    "moneta": "XRP",
    "side": "long",
    "pnl_perc": 0.044,
@@ -183,7 +183,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "23/07 11:09",
+   "data": "23/07 13:26",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": -1.205,
@@ -191,7 +191,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "23/07 11:09",
+   "data": "23/07 13:26",
    "moneta": "BTC",
    "side": "long",
    "pnl_perc": -1.222,

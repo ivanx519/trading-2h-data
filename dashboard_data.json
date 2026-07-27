@@ -1,12 +1,12 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "27/07/2026 01:13",
-  "generato_iso": "2026-07-27T01:13:00.554430+02:00",
+  "generato": "27/07/2026 02:13",
+  "generato_iso": "2026-07-27T02:13:33.143238+02:00",
   "saldo": 92.86,
   "budget": 100.0,
   "bot_attivo": true,
-  "btc": "STABILE"
+  "btc": "LONG"
  },
  "settimane": [
   {
@@ -151,52 +151,28 @@
    "r": -0.38,
    "win": 1,
    "tot": 4,
+   "note": ""
+  },
+  {
+   "w": "27/07",
+   "saldo": 92.86,
+   "pnl": 0,
+   "r": 0.0,
+   "win": 0,
+   "tot": 0,
    "note": "in corso",
    "live": true
   }
  ],
  "funnel": {
-  "grezzi": 704,
-  "qualificati": 11,
-  "pendenti": 11,
-  "entrati": 4,
-  "win": 1,
-  "loss": 2,
-  "be": 1
+  "grezzi": 0,
+  "qualificati": 0,
+  "pendenti": 0,
+  "entrati": 0,
+  "win": 0,
+  "loss": 0,
+  "be": 0
  },
  "posizioni_aperte": [],
- "trade_recenti": [
-  {
-   "data": "27/07 01:13",
-   "moneta": "NEAR",
-   "side": "long",
-   "pnl_perc": 0.545,
-   "pnl_euro": 0.139,
-   "motivo": "trailing_f2"
-  },
-  {
-   "data": "27/07 01:13",
-   "moneta": "XRP",
-   "side": "long",
-   "pnl_perc": 0.044,
-   "pnl_euro": -0.025,
-   "motivo": "break_even"
-  },
-  {
-   "data": "27/07 01:13",
-   "moneta": "BNB",
-   "side": "long",
-   "pnl_perc": -1.205,
-   "pnl_euro": -0.435,
-   "motivo": "stop_loss"
-  },
-  {
-   "data": "27/07 01:13",
-   "moneta": "BTC",
-   "side": "long",
-   "pnl_perc": -1.222,
-   "pnl_euro": -0.44,
-   "motivo": "stop_loss"
-  }
- ]
+ "trade_recenti": []
 }

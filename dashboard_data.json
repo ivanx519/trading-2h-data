@@ -1,12 +1,12 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "28/07/2026 01:44",
-  "generato_iso": "2026-07-28T01:44:52.503362+02:00",
+  "generato": "28/07/2026 05:31",
+  "generato_iso": "2026-07-28T05:31:51.618879+02:00",
   "saldo": 92.86,
   "budget": 100.0,
   "bot_attivo": true,
-  "btc": "LONG"
+  "btc": "STABILE"
  },
  "settimane": [
   {

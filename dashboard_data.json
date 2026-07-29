@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "30/07/2026 00:34",
-  "generato_iso": "2026-07-30T00:34:24.646662+02:00",
+  "generato": "30/07/2026 01:40",
+  "generato_iso": "2026-07-30T01:40:19.126974+02:00",
   "saldo": 92.43,
   "budget": 100.0,
   "bot_attivo": true,
@@ -176,7 +176,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "30/07 00:34",
+   "data": "30/07 01:40",
    "moneta": "SOL",
    "side": "short",
    "pnl_perc": -1.203,

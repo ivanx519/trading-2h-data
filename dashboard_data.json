@@ -1,9 +1,9 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "29/07/2026 23:33",
-  "generato_iso": "2026-07-29T23:33:29.184972+02:00",
-  "saldo": 92.86,
+  "generato": "30/07/2026 00:34",
+  "generato_iso": "2026-07-30T00:34:24.646662+02:00",
+  "saldo": 92.43,
   "budget": 100.0,
   "bot_attivo": true,
   "btc": "STABILE"
@@ -154,12 +154,12 @@
    "note": ""
   },
   {
-   "w": "29/07",
-   "saldo": 92.86,
-   "pnl": 0,
-   "r": 0.0,
+   "w": "30/07",
+   "saldo": 92.43,
+   "pnl": -0.43,
+   "r": -1.0,
    "win": 0,
-   "tot": 0,
+   "tot": 1,
    "note": "in corso",
    "live": true
   }
@@ -170,19 +170,18 @@
   "pendenti": 10,
   "entrati": 1,
   "win": 0,
-  "loss": 0,
+  "loss": 1,
   "be": 0
  },
- "posizioni_aperte": [
+ "posizioni_aperte": [],
+ "trade_recenti": [
   {
+   "data": "30/07 00:34",
    "moneta": "SOL",
    "side": "short",
-   "entry": 72.711,
-   "prezzo": 72.963,
-   "pnl_perc": -0.35,
-   "fase": 0,
-   "ore": 1.6
+   "pnl_perc": -1.203,
+   "pnl_euro": -0.43,
+   "motivo": "stop_loss"
   }
- ],
- "trade_recenti": []
+ ]
 }

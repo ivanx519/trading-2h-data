@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "29/07/2026 21:40",
-  "generato_iso": "2026-07-29T21:40:42.803793+02:00",
+  "generato": "29/07/2026 22:31",
+  "generato_iso": "2026-07-29T22:31:45.743291+02:00",
   "saldo": 92.86,
   "budget": 100.0,
   "bot_attivo": true,
@@ -168,11 +168,21 @@
   "grezzi": 340,
   "qualificati": 10,
   "pendenti": 10,
-  "entrati": 0,
+  "entrati": 1,
   "win": 0,
   "loss": 0,
   "be": 0
  },
- "posizioni_aperte": [],
+ "posizioni_aperte": [
+  {
+   "moneta": "SOL",
+   "side": "short",
+   "entry": 72.711,
+   "prezzo": 72.717,
+   "pnl_perc": -0.01,
+   "fase": 0,
+   "ore": 0.5
+  }
+ ],
  "trade_recenti": []
 }

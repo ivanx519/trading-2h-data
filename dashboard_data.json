@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "31/07/2026 00:45",
-  "generato_iso": "2026-07-31T00:45:22.633364+02:00",
+  "generato": "31/07/2026 02:12",
+  "generato_iso": "2026-07-31T02:12:12.335694+02:00",
   "saldo": 92.43,
   "budget": 100.0,
   "bot_attivo": true,
@@ -178,24 +178,24 @@
    "moneta": "LINK",
    "side": "long",
    "entry": 8.518,
-   "prezzo": 8.487,
-   "pnl_perc": -0.36,
+   "prezzo": 8.436,
+   "pnl_perc": -0.96,
    "fase": 0,
-   "ore": 8.0
+   "ore": 9.5
   },
   {
    "moneta": "BNB",
    "side": "long",
    "entry": 593.37,
-   "prezzo": 591.92,
-   "pnl_perc": -0.24,
+   "prezzo": 591.83,
+   "pnl_perc": -0.26,
    "fase": 0,
-   "ore": 4.7
+   "ore": 6.2
   }
  ],
  "trade_recenti": [
   {
-   "data": "31/07 00:45",
+   "data": "31/07 02:12",
    "moneta": "SOL",
    "side": "short",
    "pnl_perc": -1.203,

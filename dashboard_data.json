@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "31/07/2026 09:10",
-  "generato_iso": "2026-07-31T09:10:57.066639+02:00",
+  "generato": "31/07/2026 11:55",
+  "generato_iso": "2026-07-31T11:55:15.425066+02:00",
   "saldo": 91.52,
   "budget": 100.0,
   "bot_attivo": true,
@@ -165,18 +165,28 @@
   }
  ],
  "funnel": {
-  "grezzi": 501,
+  "grezzi": 519,
   "qualificati": 14,
   "pendenti": 14,
-  "entrati": 3,
+  "entrati": 4,
   "win": 0,
   "loss": 3,
   "be": 0
  },
- "posizioni_aperte": [],
+ "posizioni_aperte": [
+  {
+   "moneta": "SOL",
+   "side": "short",
+   "entry": 73.649,
+   "prezzo": 73.485,
+   "pnl_perc": 0.22,
+   "fase": 0,
+   "ore": 1.9
+  }
+ ],
  "trade_recenti": [
   {
-   "data": "31/07 09:10",
+   "data": "31/07 11:55",
    "moneta": "SOL",
    "side": "short",
    "pnl_perc": -1.203,
@@ -184,7 +194,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "31/07 09:10",
+   "data": "31/07 11:55",
    "moneta": "LINK",
    "side": "long",
    "pnl_perc": -1.291,
@@ -192,7 +202,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "31/07 09:10",
+   "data": "31/07 11:55",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": -1.284,

@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "31/07/2026 23:44",
-  "generato_iso": "2026-07-31T23:44:33.686942+02:00",
+  "generato": "01/08/2026 01:10",
+  "generato_iso": "2026-08-01T01:10:55.646691+02:00",
   "saldo": 91.63,
   "budget": 100.0,
   "bot_attivo": true,
@@ -154,7 +154,7 @@
    "note": ""
   },
   {
-   "w": "31/07",
+   "w": "01/08",
    "saldo": 91.63,
    "pnl": -1.23,
    "r": -0.69,
@@ -178,15 +178,15 @@
    "moneta": "BTC",
    "side": "short",
    "entry": 62701.3,
-   "prezzo": 62981.9,
-   "pnl_perc": -0.45,
+   "prezzo": 62959.4,
+   "pnl_perc": -0.41,
    "fase": 0,
-   "ore": 4.8
+   "ore": 6.3
   }
  ],
  "trade_recenti": [
   {
-   "data": "31/07 23:44",
+   "data": "01/08 01:10",
    "moneta": "SOL",
    "side": "short",
    "pnl_perc": -1.203,
@@ -194,7 +194,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "31/07 23:44",
+   "data": "01/08 01:10",
    "moneta": "LINK",
    "side": "long",
    "pnl_perc": -1.291,
@@ -202,7 +202,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "31/07 23:44",
+   "data": "01/08 01:10",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": -1.284,
@@ -210,7 +210,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "31/07 23:44",
+   "data": "01/08 01:10",
    "moneta": "SOL",
    "side": "short",
    "pnl_perc": 0.474,

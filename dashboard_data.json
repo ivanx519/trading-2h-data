@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "31/07/2026 20:39",
-  "generato_iso": "2026-07-31T20:39:32.589453+02:00",
+  "generato": "31/07/2026 22:32",
+  "generato_iso": "2026-07-31T22:32:47.306103+02:00",
   "saldo": 91.63,
   "budget": 100.0,
   "bot_attivo": true,
@@ -165,9 +165,9 @@
   }
  ],
  "funnel": {
-  "grezzi": 574,
-  "qualificati": 16,
-  "pendenti": 16,
+  "grezzi": 592,
+  "qualificati": 17,
+  "pendenti": 17,
   "entrati": 5,
   "win": 1,
   "loss": 3,
@@ -178,15 +178,15 @@
    "moneta": "BTC",
    "side": "short",
    "entry": 62701.3,
-   "prezzo": 62976.3,
-   "pnl_perc": -0.44,
+   "prezzo": 62958.6,
+   "pnl_perc": -0.41,
    "fase": 0,
-   "ore": 1.7
+   "ore": 3.6
   }
  ],
  "trade_recenti": [
   {
-   "data": "31/07 20:39",
+   "data": "31/07 22:32",
    "moneta": "SOL",
    "side": "short",
    "pnl_perc": -1.203,
@@ -194,7 +194,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "31/07 20:39",
+   "data": "31/07 22:32",
    "moneta": "LINK",
    "side": "long",
    "pnl_perc": -1.291,
@@ -202,7 +202,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "31/07 20:39",
+   "data": "31/07 22:32",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": -1.284,
@@ -210,7 +210,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "31/07 20:39",
+   "data": "31/07 22:32",
    "moneta": "SOL",
    "side": "short",
    "pnl_perc": 0.474,

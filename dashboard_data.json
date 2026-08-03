@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "03/08/2026 14:32",
-  "generato_iso": "2026-08-03T14:32:23.852681+02:00",
+  "generato": "03/08/2026 17:27",
+  "generato_iso": "2026-08-03T17:27:51.946173+02:00",
   "saldo": 91.56,
   "budget": 100.0,
   "bot_attivo": true,
@@ -174,9 +174,9 @@
   }
  ],
  "funnel": {
-  "grezzi": 53,
-  "qualificati": 5,
-  "pendenti": 5,
+  "grezzi": 73,
+  "qualificati": 6,
+  "pendenti": 6,
   "entrati": 2,
   "win": 1,
   "loss": 0,
@@ -185,7 +185,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "03/08 14:32",
+   "data": "03/08 17:27",
    "moneta": "ETH",
    "side": "short",
    "pnl_perc": 0.412,
@@ -193,7 +193,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "03/08 14:32",
+   "data": "03/08 17:27",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.044,

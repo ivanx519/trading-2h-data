@@ -1,12 +1,12 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "04/08/2026 01:14",
-  "generato_iso": "2026-08-04T01:14:09.771262+02:00",
+  "generato": "04/08/2026 03:00",
+  "generato_iso": "2026-08-04T03:00:49.700724+02:00",
   "saldo": 91.56,
   "budget": 100.0,
   "bot_attivo": true,
-  "btc": "LONG"
+  "btc": "STABILE"
  },
  "settimane": [
   {
@@ -187,15 +187,15 @@
    "moneta": "NEAR",
    "side": "long",
    "entry": 1.7463,
-   "prezzo": 1.7292,
-   "pnl_perc": -0.98,
+   "prezzo": 1.732,
+   "pnl_perc": -0.82,
    "fase": 0,
-   "ore": 6.6
+   "ore": 8.4
   }
  ],
  "trade_recenti": [
   {
-   "data": "04/08 01:14",
+   "data": "04/08 03:00",
    "moneta": "ETH",
    "side": "short",
    "pnl_perc": 0.412,
@@ -203,7 +203,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "04/08 01:14",
+   "data": "04/08 03:00",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.044,

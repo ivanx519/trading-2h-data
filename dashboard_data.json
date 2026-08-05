@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "05/08/2026 23:51",
-  "generato_iso": "2026-08-05T23:51:03.849174+02:00",
+  "generato": "06/08/2026 01:16",
+  "generato_iso": "2026-08-06T01:16:52.171331+02:00",
   "saldo": 91.74,
   "budget": 100.0,
   "bot_attivo": true,
@@ -163,7 +163,7 @@
    "note": ""
   },
   {
-   "w": "05/08",
+   "w": "06/08",
    "saldo": 91.74,
    "pnl": 0.24,
    "r": 0.31,
@@ -185,7 +185,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "05/08 23:51",
+   "data": "06/08 01:16",
    "moneta": "ETH",
    "side": "short",
    "pnl_perc": 0.412,
@@ -193,7 +193,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "05/08 23:51",
+   "data": "06/08 01:16",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.044,
@@ -201,7 +201,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "05/08 23:51",
+   "data": "06/08 01:16",
    "moneta": "NEAR",
    "side": "long",
    "pnl_perc": 0.664,

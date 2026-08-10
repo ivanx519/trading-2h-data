@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "10/08/2026 21:37",
-  "generato_iso": "2026-08-10T21:37:44.651287+02:00",
+  "generato": "10/08/2026 22:19",
+  "generato_iso": "2026-08-10T22:19:11.551538+02:00",
   "saldo": 91.74,
   "budget": 100.0,
   "bot_attivo": true,
@@ -183,14 +183,24 @@
   }
  ],
  "funnel": {
-  "grezzi": 144,
+  "grezzi": 152,
   "qualificati": 2,
   "pendenti": 2,
-  "entrati": 0,
+  "entrati": 1,
   "win": 0,
   "loss": 0,
   "be": 0
  },
- "posizioni_aperte": [],
+ "posizioni_aperte": [
+  {
+   "moneta": "ADA",
+   "side": "short",
+   "entry": 0.1936,
+   "prezzo": 0.1939,
+   "pnl_perc": -0.15,
+   "fase": 0,
+   "ore": 0.3
+  }
+ ],
  "trade_recenti": []
 }

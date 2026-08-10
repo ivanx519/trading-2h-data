@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "10/08/2026 22:19",
-  "generato_iso": "2026-08-10T22:19:11.551538+02:00",
+  "generato": "10/08/2026 23:20",
+  "generato_iso": "2026-08-10T23:20:22.925858+02:00",
   "saldo": 91.74,
   "budget": 100.0,
   "bot_attivo": true,
@@ -196,10 +196,10 @@
    "moneta": "ADA",
    "side": "short",
    "entry": 0.1936,
-   "prezzo": 0.1939,
-   "pnl_perc": -0.15,
+   "prezzo": 0.1927,
+   "pnl_perc": 0.46,
    "fase": 0,
-   "ore": 0.3
+   "ore": 1.3
   }
  ],
  "trade_recenti": []

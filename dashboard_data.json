@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "11/08/2026 23:24",
-  "generato_iso": "2026-08-11T23:24:52.407292+02:00",
+  "generato": "12/08/2026 00:20",
+  "generato_iso": "2026-08-12T00:20:59.360141+02:00",
   "saldo": 91.81,
   "budget": 100.0,
   "bot_attivo": true,
@@ -172,7 +172,7 @@
    "note": ""
   },
   {
-   "w": "11/08",
+   "w": "12/08",
    "saldo": 91.81,
    "pnl": 0.07,
    "r": 0.16,
@@ -196,15 +196,15 @@
    "moneta": "BNB",
    "side": "long",
    "entry": 611.0,
-   "prezzo": 612.64,
-   "pnl_perc": 0.27,
+   "prezzo": 612.27,
+   "pnl_perc": 0.21,
    "fase": 0,
-   "ore": 7.4
+   "ore": 8.3
   }
  ],
  "trade_recenti": [
   {
-   "data": "11/08 23:24",
+   "data": "12/08 00:20",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.568,
@@ -212,7 +212,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "11/08 23:24",
+   "data": "12/08 00:20",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": 0.0,
@@ -220,7 +220,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "11/08 23:24",
+   "data": "12/08 00:20",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.01,

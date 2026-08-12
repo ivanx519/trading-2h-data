@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "12/08/2026 10:01",
-  "generato_iso": "2026-08-12T10:01:04.599082+02:00",
+  "generato": "12/08/2026 11:28",
+  "generato_iso": "2026-08-12T11:28:27.552265+02:00",
   "saldo": 91.95,
   "budget": 100.0,
   "bot_attivo": true,
@@ -183,7 +183,7 @@
   }
  ],
  "funnel": {
-  "grezzi": 304,
+  "grezzi": 324,
   "qualificati": 9,
   "pendenti": 9,
   "entrati": 4,
@@ -194,7 +194,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "12/08 10:01",
+   "data": "12/08 11:28",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.568,
@@ -202,7 +202,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "12/08 10:01",
+   "data": "12/08 11:28",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": 0.0,
@@ -210,7 +210,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "12/08 10:01",
+   "data": "12/08 11:28",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.01,
@@ -218,7 +218,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "12/08 10:01",
+   "data": "12/08 11:28",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.56,

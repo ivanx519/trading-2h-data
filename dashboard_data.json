@@ -1,9 +1,9 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "14/08/2026 18:00",
-  "generato_iso": "2026-08-14T18:00:37.383228+02:00",
-  "saldo": 91.9,
+  "generato": "14/08/2026 19:08",
+  "generato_iso": "2026-08-14T19:08:21.057780+02:00",
+  "saldo": 91.46,
   "budget": 100.0,
   "bot_attivo": true,
   "btc": "SHORT"
@@ -173,38 +173,28 @@
   },
   {
    "w": "14/08",
-   "saldo": 91.9,
-   "pnl": 0.17,
-   "r": 0.15,
+   "saldo": 91.46,
+   "pnl": -0.28,
+   "r": 0.02,
    "win": 4,
-   "tot": 8,
+   "tot": 9,
    "note": "in corso",
    "live": true
   }
  ],
  "funnel": {
-  "grezzi": 615,
+  "grezzi": 633,
   "qualificati": 21,
   "pendenti": 21,
   "entrati": 9,
   "win": 4,
-  "loss": 1,
+  "loss": 2,
   "be": 3
  },
- "posizioni_aperte": [
-  {
-   "moneta": "AVAX",
-   "side": "short",
-   "entry": 6.373,
-   "prezzo": 6.437,
-   "pnl_perc": -1.0,
-   "fase": 0,
-   "ore": 8.0
-  }
- ],
+ "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "14/08 18:00",
+   "data": "14/08 19:08",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.568,
@@ -212,7 +202,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 18:00",
+   "data": "14/08 19:08",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": 0.0,
@@ -220,7 +210,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "14/08 18:00",
+   "data": "14/08 19:08",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.01,
@@ -228,7 +218,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "14/08 18:00",
+   "data": "14/08 19:08",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.56,
@@ -236,7 +226,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 18:00",
+   "data": "14/08 19:08",
    "moneta": "ETH",
    "side": "long",
    "pnl_perc": -1.298,
@@ -244,7 +234,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "14/08 18:00",
+   "data": "14/08 19:08",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.10263541252813968,
@@ -252,7 +242,7 @@
    "motivo": "timeout"
   },
   {
-   "data": "14/08 18:00",
+   "data": "14/08 19:08",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.874,
@@ -260,12 +250,20 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 18:00",
+   "data": "14/08 19:08",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.667,
    "pnl_euro": 0.176,
    "motivo": "trailing_f2"
+  },
+  {
+   "data": "14/08 19:08",
+   "moneta": "AVAX",
+   "side": "short",
+   "pnl_perc": -1.271,
+   "pnl_euro": -0.447,
+   "motivo": "stop_loss"
   }
  ]
 }

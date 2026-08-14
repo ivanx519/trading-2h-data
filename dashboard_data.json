@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "14/08/2026 02:40",
-  "generato_iso": "2026-08-14T02:40:44.839706+02:00",
+  "generato": "14/08/2026 05:12",
+  "generato_iso": "2026-08-14T05:12:10.273994+02:00",
   "saldo": 91.73,
   "budget": 100.0,
   "bot_attivo": true,
@@ -194,7 +194,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "14/08 02:40",
+   "data": "14/08 05:12",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.568,
@@ -202,7 +202,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 02:40",
+   "data": "14/08 05:12",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": 0.0,
@@ -210,7 +210,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "14/08 02:40",
+   "data": "14/08 05:12",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.01,
@@ -218,7 +218,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "14/08 02:40",
+   "data": "14/08 05:12",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.56,
@@ -226,7 +226,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 02:40",
+   "data": "14/08 05:12",
    "moneta": "ETH",
    "side": "long",
    "pnl_perc": -1.298,
@@ -234,7 +234,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "14/08 02:40",
+   "data": "14/08 05:12",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.10263541252813968,
@@ -242,7 +242,7 @@
    "motivo": "timeout"
   },
   {
-   "data": "14/08 02:40",
+   "data": "14/08 05:12",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.874,

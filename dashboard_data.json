@@ -1,12 +1,12 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "14/08/2026 17:04",
-  "generato_iso": "2026-08-14T17:04:23.664889+02:00",
-  "saldo": 91.73,
+  "generato": "14/08/2026 18:00",
+  "generato_iso": "2026-08-14T18:00:37.383228+02:00",
+  "saldo": 91.9,
   "budget": 100.0,
   "bot_attivo": true,
-  "btc": "STABILE"
+  "btc": "SHORT"
  },
  "settimane": [
   {
@@ -173,11 +173,11 @@
   },
   {
    "w": "14/08",
-   "saldo": 91.73,
-   "pnl": -0.01,
-   "r": 0.1,
-   "win": 3,
-   "tot": 7,
+   "saldo": 91.9,
+   "pnl": 0.17,
+   "r": 0.15,
+   "win": 4,
+   "tot": 8,
    "note": "in corso",
    "live": true
   }
@@ -187,7 +187,7 @@
   "qualificati": 21,
   "pendenti": 21,
   "entrati": 9,
-  "win": 3,
+  "win": 4,
   "loss": 1,
   "be": 3
  },
@@ -196,24 +196,15 @@
    "moneta": "AVAX",
    "side": "short",
    "entry": 6.373,
-   "prezzo": 6.369,
-   "pnl_perc": 0.06,
+   "prezzo": 6.437,
+   "pnl_perc": -1.0,
    "fase": 0,
-   "ore": 7.1
-  },
-  {
-   "moneta": "ADA",
-   "side": "short",
-   "entry": 0.1799,
-   "prezzo": 0.1779,
-   "pnl_perc": 1.11,
-   "fase": 2,
-   "ore": 3.1
+   "ore": 8.0
   }
  ],
  "trade_recenti": [
   {
-   "data": "14/08 17:04",
+   "data": "14/08 18:00",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.568,
@@ -221,7 +212,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 17:04",
+   "data": "14/08 18:00",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": 0.0,
@@ -229,7 +220,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "14/08 17:04",
+   "data": "14/08 18:00",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.01,
@@ -237,7 +228,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "14/08 17:04",
+   "data": "14/08 18:00",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.56,
@@ -245,7 +236,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 17:04",
+   "data": "14/08 18:00",
    "moneta": "ETH",
    "side": "long",
    "pnl_perc": -1.298,
@@ -253,7 +244,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "14/08 17:04",
+   "data": "14/08 18:00",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.10263541252813968,
@@ -261,11 +252,19 @@
    "motivo": "timeout"
   },
   {
-   "data": "14/08 17:04",
+   "data": "14/08 18:00",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.874,
    "pnl_euro": 0.241,
+   "motivo": "trailing_f2"
+  },
+  {
+   "data": "14/08 18:00",
+   "moneta": "ADA",
+   "side": "short",
+   "pnl_perc": 0.667,
+   "pnl_euro": 0.176,
    "motivo": "trailing_f2"
   }
  ]

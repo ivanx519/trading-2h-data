@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "14/08/2026 13:27",
-  "generato_iso": "2026-08-14T13:27:14.669815+02:00",
+  "generato": "14/08/2026 14:24",
+  "generato_iso": "2026-08-14T14:24:03.544425+02:00",
   "saldo": 91.73,
   "budget": 100.0,
   "bot_attivo": true,
@@ -183,10 +183,10 @@
   }
  ],
  "funnel": {
-  "grezzi": 583,
+  "grezzi": 591,
   "qualificati": 21,
   "pendenti": 21,
-  "entrati": 8,
+  "entrati": 9,
   "win": 3,
   "loss": 1,
   "be": 3
@@ -196,15 +196,24 @@
    "moneta": "AVAX",
    "side": "short",
    "entry": 6.373,
-   "prezzo": 6.361,
-   "pnl_perc": 0.19,
+   "prezzo": 6.353,
+   "pnl_perc": 0.31,
    "fase": 0,
-   "ore": 3.4
+   "ore": 4.4
+  },
+  {
+   "moneta": "ADA",
+   "side": "short",
+   "entry": 0.1799,
+   "prezzo": 0.1798,
+   "pnl_perc": 0.06,
+   "fase": 0,
+   "ore": 0.4
   }
  ],
  "trade_recenti": [
   {
-   "data": "14/08 13:27",
+   "data": "14/08 14:24",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.568,
@@ -212,7 +221,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 13:27",
+   "data": "14/08 14:24",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": 0.0,
@@ -220,7 +229,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "14/08 13:27",
+   "data": "14/08 14:24",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.01,
@@ -228,7 +237,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "14/08 13:27",
+   "data": "14/08 14:24",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.56,
@@ -236,7 +245,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 13:27",
+   "data": "14/08 14:24",
    "moneta": "ETH",
    "side": "long",
    "pnl_perc": -1.298,
@@ -244,7 +253,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "14/08 13:27",
+   "data": "14/08 14:24",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.10263541252813968,
@@ -252,7 +261,7 @@
    "motivo": "timeout"
   },
   {
-   "data": "14/08 13:27",
+   "data": "14/08 14:24",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.874,

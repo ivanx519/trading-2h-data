@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "14/08/2026 10:32",
-  "generato_iso": "2026-08-14T10:32:30.786211+02:00",
+  "generato": "14/08/2026 11:39",
+  "generato_iso": "2026-08-14T11:39:13.678277+02:00",
   "saldo": 91.73,
   "budget": 100.0,
   "bot_attivo": true,
@@ -183,9 +183,9 @@
   }
  ],
  "funnel": {
-  "grezzi": 558,
-  "qualificati": 20,
-  "pendenti": 20,
+  "grezzi": 567,
+  "qualificati": 21,
+  "pendenti": 21,
   "entrati": 8,
   "win": 3,
   "loss": 1,
@@ -196,15 +196,15 @@
    "moneta": "AVAX",
    "side": "short",
    "entry": 6.373,
-   "prezzo": 6.386,
-   "pnl_perc": -0.2,
+   "prezzo": 6.366,
+   "pnl_perc": 0.11,
    "fase": 0,
-   "ore": 0.5
+   "ore": 1.6
   }
  ],
  "trade_recenti": [
   {
-   "data": "14/08 10:32",
+   "data": "14/08 11:39",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.568,
@@ -212,7 +212,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 10:32",
+   "data": "14/08 11:39",
    "moneta": "DOGE",
    "side": "long",
    "pnl_perc": 0.0,
@@ -220,7 +220,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "14/08 10:32",
+   "data": "14/08 11:39",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.01,
@@ -228,7 +228,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "14/08 10:32",
+   "data": "14/08 11:39",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.56,
@@ -236,7 +236,7 @@
    "motivo": "trailing_f2"
   },
   {
-   "data": "14/08 10:32",
+   "data": "14/08 11:39",
    "moneta": "ETH",
    "side": "long",
    "pnl_perc": -1.298,
@@ -244,7 +244,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "14/08 10:32",
+   "data": "14/08 11:39",
    "moneta": "BTC",
    "side": "short",
    "pnl_perc": 0.10263541252813968,
@@ -252,7 +252,7 @@
    "motivo": "timeout"
   },
   {
-   "data": "14/08 10:32",
+   "data": "14/08 11:39",
    "moneta": "ADA",
    "side": "short",
    "pnl_perc": 0.874,

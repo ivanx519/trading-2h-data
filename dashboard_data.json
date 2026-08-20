@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "20/08/2026 10:53",
-  "generato_iso": "2026-08-20T10:53:35.439112+02:00",
+  "generato": "20/08/2026 11:44",
+  "generato_iso": "2026-08-20T11:44:55.120784+02:00",
   "saldo": 91.44,
   "budget": 100.0,
   "bot_attivo": true,
@@ -192,7 +192,7 @@
   }
  ],
  "funnel": {
-  "grezzi": 457,
+  "grezzi": 467,
   "qualificati": 11,
   "pendenti": 11,
   "entrati": 1,
@@ -203,7 +203,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "20/08 10:53",
+   "data": "20/08 11:44",
    "moneta": "SOL",
    "side": "long",
    "pnl_perc": 0.05,

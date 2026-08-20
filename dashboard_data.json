@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "20/08/2026 17:44",
-  "generato_iso": "2026-08-20T17:44:41.030363+02:00",
+  "generato": "20/08/2026 18:46",
+  "generato_iso": "2026-08-20T18:46:30.779226+02:00",
   "saldo": 91.0,
   "budget": 100.0,
   "bot_attivo": true,
@@ -192,9 +192,9 @@
   }
  ],
  "funnel": {
-  "grezzi": 517,
-  "qualificati": 14,
-  "pendenti": 14,
+  "grezzi": 525,
+  "qualificati": 16,
+  "pendenti": 16,
   "entrati": 3,
   "win": 1,
   "loss": 1,
@@ -203,7 +203,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "20/08 17:44",
+   "data": "20/08 18:46",
    "moneta": "SOL",
    "side": "long",
    "pnl_perc": 0.05,
@@ -211,7 +211,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "20/08 17:44",
+   "data": "20/08 18:46",
    "moneta": "ETH",
    "side": "long",
    "pnl_perc": -1.479,
@@ -219,7 +219,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "20/08 17:44",
+   "data": "20/08 18:46",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.352,

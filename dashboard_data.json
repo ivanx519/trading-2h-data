@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "21/08/2026 05:11",
-  "generato_iso": "2026-08-21T05:11:42.756711+02:00",
+  "generato": "21/08/2026 06:17",
+  "generato_iso": "2026-08-21T06:17:20.081702+02:00",
   "saldo": 91.0,
   "budget": 100.0,
   "bot_attivo": true,
@@ -203,7 +203,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "21/08 05:11",
+   "data": "21/08 06:17",
    "moneta": "SOL",
    "side": "long",
    "pnl_perc": 0.05,
@@ -211,7 +211,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "21/08 05:11",
+   "data": "21/08 06:17",
    "moneta": "ETH",
    "side": "long",
    "pnl_perc": -1.479,
@@ -219,7 +219,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "21/08 05:11",
+   "data": "21/08 06:17",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.352,

@@ -1,8 +1,8 @@
 {
  "meta": {
   "version": "2.7",
-  "generato": "21/08/2026 15:56",
-  "generato_iso": "2026-08-21T15:56:46.026425+02:00",
+  "generato": "21/08/2026 16:48",
+  "generato_iso": "2026-08-21T16:48:24.284647+02:00",
   "saldo": 91.77,
   "budget": 100.0,
   "bot_attivo": true,
@@ -192,7 +192,7 @@
   }
  ],
  "funnel": {
-  "grezzi": 629,
+  "grezzi": 638,
   "qualificati": 22,
   "pendenti": 22,
   "entrati": 4,
@@ -203,7 +203,7 @@
  "posizioni_aperte": [],
  "trade_recenti": [
   {
-   "data": "21/08 15:56",
+   "data": "21/08 16:48",
    "moneta": "SOL",
    "side": "long",
    "pnl_perc": 0.05,
@@ -211,7 +211,7 @@
    "motivo": "break_even"
   },
   {
-   "data": "21/08 15:56",
+   "data": "21/08 16:48",
    "moneta": "ETH",
    "side": "long",
    "pnl_perc": -1.479,
@@ -219,7 +219,7 @@
    "motivo": "stop_loss"
   },
   {
-   "data": "21/08 15:56",
+   "data": "21/08 16:48",
    "moneta": "BNB",
    "side": "long",
    "pnl_perc": 0.352,
@@ -227,7 +227,7 @@
    "motivo": "ratchet_profit"
   },
   {
-   "data": "21/08 15:56",
+   "data": "21/08 16:48",
    "moneta": "AVAX",
    "side": "long",
    "pnl_perc": 2.557,
